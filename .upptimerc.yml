@@ -5,6 +5,10 @@ repo: uptime # The name of this repository
 sites:
   - name: Homepage
     url: https://manson.id.au
+  - name: Plex
+    check: "tcp-ping"
+    url: manson.id.au
+    port: 32400
   - name: Weather
     url: https://weather.manson.id.au
   - name: Tautulli

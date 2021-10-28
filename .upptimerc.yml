@@ -3,8 +3,14 @@ owner: CoryManson # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
-  - name: Main
+  - name: Homepage
     url: https://manson.id.au
+  - name: Weather
+    url: https://weather.manson.id.au
+  - name: Tautulli
+    url: https://manson.id.au/tautulli
+  - name: Ombi
+    url: https://manson.id.au/ombi
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -13,8 +19,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /

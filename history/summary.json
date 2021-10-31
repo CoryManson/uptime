@@ -4,18 +4,20 @@
     "url": "https://$URL",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1032,
     "timeDay": 972,
     "timeWeek": 1032,
     "timeMonth": 1032,
     "timeYear": 1032,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-31": 2
+    }
   },
   {
     "name": "Plex",
@@ -40,45 +42,49 @@
     "url": "https://weather.$URL",
     "icon": "https://favicons.githubusercontent.com/weather.",
     "slug": "weather",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1109,
     "timeDay": 892,
     "timeWeek": 1109,
     "timeMonth": 1109,
     "timeYear": 1109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-31": 1
+    }
   },
   {
     "name": "Tautulli",
     "url": "https://$URL/tautulli",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "tautulli",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 604,
     "timeDay": 539,
     "timeWeek": 604,
     "timeMonth": 604,
     "timeYear": 604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-31": 1
+    }
   },
   {
     "name": "Ombi",
     "url": "https://$URL/ombi",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "ombi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +93,8 @@
     "timeWeek": 451,
     "timeMonth": 451,
     "timeYear": 451,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-31": 0
+    }
   }
 ]

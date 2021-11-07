@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "homepage",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.02%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptime": "98.62%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 991,
     "timeDay": 936,
     "timeWeek": 963,
     "timeMonth": 991,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2021-11-07": 0,
+      "2021-11-07": 12,
       "2021-11-05": 18,
       "2021-10-31": 182
     }
@@ -44,10 +44,10 @@
     "url": "https://weather.$URL",
     "icon": "https://favicons.githubusercontent.com/weather.",
     "slug": "weather",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.03%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "98.06%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "98.70%",
     "time": 1183,
@@ -56,6 +56,7 @@
     "timeMonth": 1183,
     "timeYear": 1183,
     "dailyMinutesDown": {
+      "2021-11-07": 1,
       "2021-11-05": 18,
       "2021-10-31": 181
     }
@@ -65,10 +66,10 @@
     "url": "https://$URL/tautulli",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.07%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.71%",
     "time": 629,
@@ -77,6 +78,7 @@
     "timeMonth": 629,
     "timeYear": 629,
     "dailyMinutesDown": {
+      "2021-11-07": 1,
       "2021-11-05": 17,
       "2021-10-31": 181
     }
@@ -87,18 +89,18 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "ombi",
     "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.71%",
-    "uptimeYear": "98.71%",
+    "uptime": "98.64%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "97.96%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 459,
     "timeDay": 459,
     "timeWeek": 465,
     "timeMonth": 459,
     "timeYear": 459,
     "dailyMinutesDown": {
-      "2021-11-07": 0,
+      "2021-11-07": 12,
       "2021-11-05": 17,
       "2021-10-31": 180
     }

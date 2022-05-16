@@ -1,7 +1,7 @@
 url: https://$URL/tautulli
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-15T23:06:55.189Z
+status: up
+code: 200
+responseTime: 689
+lastUpdated: 2022-05-16T03:55:42.792Z
 startTime: Thu Oct 28 2021 00:55:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

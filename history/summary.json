@@ -11,9 +11,9 @@
     "uptimeMonth": "97.86%",
     "uptimeYear": "98.04%",
     "time": 1034,
-    "timeDay": 1101,
-    "timeWeek": 1067,
-    "timeMonth": 1085,
+    "timeDay": 1166,
+    "timeWeek": 1108,
+    "timeMonth": 1087,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2022-11-06": 106,
@@ -89,8 +89,7 @@
       "2021-12-05": 40,
       "2021-12-02": 300,
       "2021-11-28": 380,
-      "2021-11-14": 27,
-      "2021-11-07": 25
+      "2021-11-14": 27
     }
   },
   {
@@ -105,10 +104,10 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.48%",
     "time": 202,
-    "timeDay": 304,
-    "timeWeek": 234,
-    "timeMonth": 246,
-    "timeYear": 202,
+    "timeDay": 300,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2022-10-24": 76,
       "2022-10-08": 376,
@@ -136,11 +135,11 @@
     "uptimeWeek": "99.12%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "98.12%",
-    "time": 986,
-    "timeDay": 4594,
-    "timeWeek": 1839,
-    "timeMonth": 1143,
-    "timeYear": 978,
+    "time": 987,
+    "timeDay": 4655,
+    "timeWeek": 1908,
+    "timeMonth": 1148,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2022-11-06": 88,
       "2022-10-30": 77,
@@ -225,9 +224,9 @@
     "uptimeMonth": "98.02%",
     "uptimeYear": "97.94%",
     "time": 627,
-    "timeDay": 714,
-    "timeWeek": 612,
-    "timeMonth": 626,
+    "timeDay": 737,
+    "timeWeek": 643,
+    "timeMonth": 628,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2022-11-06": 94,
@@ -316,10 +315,10 @@
     "uptimeMonth": "97.88%",
     "uptimeYear": "98.09%",
     "time": 939,
-    "timeDay": 1048,
-    "timeWeek": 926,
-    "timeMonth": 951,
-    "timeYear": 958,
+    "timeDay": 1092,
+    "timeWeek": 963,
+    "timeMonth": 953,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2022-11-06": 106,
       "2022-10-30": 98,
@@ -391,8 +390,7 @@
       "2021-12-05": 40,
       "2021-12-02": 296,
       "2021-11-28": 379,
-      "2021-11-14": 25,
-      "2021-11-07": 25
+      "2021-11-14": 25
     }
   }
 ]

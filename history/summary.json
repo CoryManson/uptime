@@ -9,11 +9,11 @@
     "uptimeDay": "90.50%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "98.08%",
-    "uptimeYear": "98.06%",
+    "uptimeYear": "98.13%",
     "time": 1040,
-    "timeDay": 1056,
-    "timeWeek": 1051,
-    "timeMonth": 1100,
+    "timeDay": 1051,
+    "timeWeek": 1031,
+    "timeMonth": 1098,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2022-12-18": 137,
@@ -94,8 +94,7 @@
       "2022-01-11": 20,
       "2022-01-03": 140,
       "2022-01-02": 197,
-      "2021-12-26": 30,
-      "2021-12-19": 157
+      "2021-12-26": 30
     }
   },
   {
@@ -110,9 +109,9 @@
     "uptimeMonth": "99.56%",
     "uptimeYear": "99.37%",
     "time": 206,
-    "timeDay": 222,
-    "timeWeek": 250,
-    "timeMonth": 239,
+    "timeDay": 286,
+    "timeWeek": 258,
+    "timeMonth": 238,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2022-12-12": 18,
@@ -142,15 +141,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "90.53%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "98.22%",
-    "uptimeYear": "98.16%",
-    "time": 1012,
-    "timeDay": 1063,
-    "timeWeek": 1723,
-    "timeMonth": 1317,
+    "uptimeYear": "98.22%",
+    "time": 1013,
+    "timeDay": 1227,
+    "timeWeek": 1760,
+    "timeMonth": 1321,
     "timeYear": 1014,
     "dailyMinutesDown": {
       "2022-12-18": 136,
@@ -224,8 +223,7 @@
       "2022-01-22": 339,
       "2022-01-03": 139,
       "2022-01-02": 190,
-      "2021-12-26": 30,
-      "2021-12-19": 129
+      "2021-12-26": 30
     }
   },
   {
@@ -238,11 +236,11 @@
     "uptimeDay": "90.57%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "98.23%",
-    "uptimeYear": "97.97%",
+    "uptimeYear": "98.03%",
     "time": 631,
-    "timeDay": 616,
-    "timeWeek": 675,
-    "timeMonth": 678,
+    "timeDay": 621,
+    "timeWeek": 676,
+    "timeMonth": 676,
     "timeYear": 632,
     "dailyMinutesDown": {
       "2022-12-18": 136,
@@ -319,8 +317,7 @@
       "2022-01-22": 338,
       "2022-01-03": 139,
       "2022-01-02": 196,
-      "2021-12-26": 29,
-      "2021-12-19": 156
+      "2021-12-26": 29
     }
   },
   {
@@ -333,12 +330,12 @@
     "uptimeDay": "90.60%",
     "uptimeWeek": "98.66%",
     "uptimeMonth": "98.20%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.19%",
     "time": 946,
-    "timeDay": 941,
-    "timeWeek": 964,
-    "timeMonth": 1013,
-    "timeYear": 1022,
+    "timeDay": 937,
+    "timeWeek": 967,
+    "timeMonth": 1010,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2022-12-18": 135,
       "2022-12-11": 132,
@@ -413,8 +410,7 @@
       "2022-01-22": 338,
       "2022-01-03": 138,
       "2022-01-02": 195,
-      "2021-12-26": 29,
-      "2021-12-19": 156
+      "2021-12-26": 29
     }
   }
 ]

@@ -11,8 +11,8 @@
     "uptimeMonth": "98.56%",
     "uptimeYear": "98.15%",
     "time": 1075,
-    "timeDay": 1057,
-    "timeWeek": 1044,
+    "timeDay": 1177,
+    "timeWeek": 1056,
     "timeMonth": 1377,
     "timeYear": 1094,
     "dailyMinutesDown": {
@@ -101,8 +101,7 @@
       "2022-02-27": 39,
       "2022-02-26": 209,
       "2022-02-23": 238,
-      "2022-02-22": 136,
-      "2022-02-20": 39
+      "2022-02-22": 136
     }
   },
   {
@@ -117,9 +116,9 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.26%",
     "time": 210,
-    "timeDay": 290,
-    "timeWeek": 236,
-    "timeMonth": 238,
+    "timeDay": 236,
+    "timeWeek": 237,
+    "timeMonth": 236,
     "timeYear": 216,
     "dailyMinutesDown": {
       "2023-02-13": 151,
@@ -164,9 +163,9 @@
     "uptimeMonth": "91.16%",
     "uptimeYear": "97.61%",
     "time": 1026,
-    "timeDay": 785,
-    "timeWeek": 914,
-    "timeMonth": 1235,
+    "timeDay": 946,
+    "timeWeek": 925,
+    "timeMonth": 1236,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2023-02-19": 46,
@@ -251,8 +250,7 @@
       "2022-02-27": 38,
       "2022-02-26": 208,
       "2022-02-23": 238,
-      "2022-02-22": 135,
-      "2022-02-20": 38
+      "2022-02-22": 135
     }
   },
   {
@@ -261,14 +259,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "98.05%",
+    "uptime": "98.06%",
     "uptimeDay": "96.26%",
     "uptimeWeek": "97.98%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.06%",
     "time": 645,
-    "timeDay": 617,
-    "timeWeek": 641,
+    "timeDay": 709,
+    "timeWeek": 650,
     "timeMonth": 824,
     "timeYear": 643,
     "dailyMinutesDown": {
@@ -353,8 +351,7 @@
       "2022-02-27": 38,
       "2022-02-26": 207,
       "2022-02-23": 238,
-      "2022-02-22": 135,
-      "2022-02-20": 38
+      "2022-02-22": 135
     }
   },
   {
@@ -368,10 +365,10 @@
     "uptimeWeek": "97.86%",
     "uptimeMonth": "98.71%",
     "uptimeYear": "98.21%",
-    "time": 973,
-    "timeDay": 952,
-    "timeWeek": 1019,
-    "timeMonth": 1025,
+    "time": 975,
+    "timeDay": 1067,
+    "timeWeek": 1018,
+    "timeMonth": 1024,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2023-02-19": 66,
@@ -454,8 +451,7 @@
       "2022-02-27": 37,
       "2022-02-26": 215,
       "2022-02-23": 238,
-      "2022-02-22": 134,
-      "2022-02-20": 37
+      "2022-02-22": 134
     }
   }
 ]

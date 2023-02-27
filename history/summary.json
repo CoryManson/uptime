@@ -11,8 +11,8 @@
     "uptimeMonth": "93.78%",
     "uptimeYear": "97.84%",
     "time": 1078,
-    "timeDay": 1242,
-    "timeWeek": 1131,
+    "timeDay": 1085,
+    "timeWeek": 1125,
     "timeMonth": 1070,
     "timeYear": 1098,
     "dailyMinutesDown": {
@@ -100,8 +100,7 @@
       "2022-03-27": 50,
       "2022-03-20": 43,
       "2022-03-13": 51,
-      "2022-03-06": 39,
-      "2022-02-27": 39
+      "2022-03-06": 39
     }
   },
   {
@@ -110,16 +109,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "88.24%",
     "uptimeMonth": "96.84%",
     "uptimeYear": "99.03%",
     "time": 211,
-    "timeDay": 277,
-    "timeWeek": 234,
-    "timeMonth": 238,
-    "timeYear": 216,
+    "timeDay": 280,
+    "timeWeek": 239,
+    "timeMonth": 237,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2023-02-24": 279,
       "2023-02-23": 906,
@@ -159,15 +158,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "91.68%",
     "uptimeWeek": "77.63%",
     "uptimeMonth": "86.44%",
     "uptimeYear": "97.30%",
     "time": 1026,
-    "timeDay": 941,
-    "timeWeek": 888,
-    "timeMonth": 1059,
+    "timeDay": 882,
+    "timeWeek": 887,
+    "timeMonth": 1049,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2023-02-26": 120,
@@ -251,8 +250,7 @@
       "2022-03-27": 50,
       "2022-03-20": 42,
       "2022-03-13": 50,
-      "2022-03-06": 38,
-      "2022-02-27": 38
+      "2022-03-06": 38
     }
   },
   {
@@ -267,9 +265,9 @@
     "uptimeMonth": "93.86%",
     "uptimeYear": "97.75%",
     "time": 645,
-    "timeDay": 623,
-    "timeWeek": 620,
-    "timeMonth": 627,
+    "timeDay": 568,
+    "timeWeek": 612,
+    "timeMonth": 625,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2023-02-26": 119,
@@ -352,8 +350,7 @@
       "2022-03-27": 49,
       "2022-03-20": 42,
       "2022-03-13": 50,
-      "2022-03-06": 38,
-      "2022-02-27": 38
+      "2022-03-06": 38
     }
   },
   {
@@ -367,10 +364,10 @@
     "uptimeWeek": "77.65%",
     "uptimeMonth": "93.82%",
     "uptimeYear": "97.90%",
-    "time": 984,
-    "timeDay": 1035,
-    "timeWeek": 998,
-    "timeMonth": 990,
+    "time": 985,
+    "timeDay": 933,
+    "timeWeek": 989,
+    "timeMonth": 987,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2023-02-26": 131,
@@ -452,8 +449,7 @@
       "2022-03-27": 49,
       "2022-03-20": 41,
       "2022-03-13": 49,
-      "2022-03-06": 37,
-      "2022-02-27": 37
+      "2022-03-06": 37
     }
   }
 ]

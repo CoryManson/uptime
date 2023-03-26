@@ -1,7 +1,7 @@
 url: https://weather.$URL
-status: up
-code: 200
-responseTime: 910
-lastUpdated: 2023-03-26T13:07:01.747Z
+status: down
+code: 502
+responseTime: 703
+lastUpdated: 2023-03-26T13:47:17.029Z
 startTime: Thu Oct 28 2021 00:55:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

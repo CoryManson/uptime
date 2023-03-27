@@ -11,8 +11,8 @@
     "uptimeMonth": "96.14%",
     "uptimeYear": "97.55%",
     "time": 1086,
-    "timeDay": 1070,
-    "timeWeek": 1106,
+    "timeDay": 1038,
+    "timeWeek": 1108,
     "timeMonth": 1088,
     "timeYear": 1107,
     "dailyMinutesDown": {
@@ -102,8 +102,7 @@
       "2022-04-17": 44,
       "2022-04-13": 91,
       "2022-04-10": 45,
-      "2022-04-03": 43,
-      "2022-03-27": 50
+      "2022-04-03": 43
     }
   },
   {
@@ -118,9 +117,9 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "98.96%",
     "time": 213,
-    "timeDay": 173,
-    "timeWeek": 221,
-    "timeMonth": 239,
+    "timeDay": 250,
+    "timeWeek": 218,
+    "timeMonth": 238,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2023-03-18": 142,
@@ -166,14 +165,14 @@
     "slug": "weather",
     "status": "up",
     "uptime": "97.18%",
-    "uptimeDay": "35.93%",
+    "uptimeDay": "39.62%",
     "uptimeWeek": "85.74%",
     "uptimeMonth": "87.91%",
     "uptimeYear": "96.32%",
     "time": 1023,
-    "timeDay": 808,
+    "timeDay": 812,
     "timeWeek": 837,
-    "timeMonth": 934,
+    "timeMonth": 931,
     "timeYear": 1025,
     "dailyMinutesDown": {
       "2023-03-26": 882,
@@ -261,8 +260,7 @@
       "2022-04-17": 43,
       "2022-04-13": 91,
       "2022-04-10": 44,
-      "2022-04-03": 42,
-      "2022-03-27": 50
+      "2022-04-03": 42
     }
   },
   {
@@ -276,11 +274,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "97.47%",
-    "time": 644,
-    "timeDay": 499,
+    "time": 645,
+    "timeDay": 602,
     "timeWeek": 563,
     "timeMonth": 607,
-    "timeYear": 642,
+    "timeYear": 643,
     "dailyMinutesDown": {
       "2023-03-18": 141,
       "2023-03-16": 162,
@@ -364,8 +362,7 @@
       "2022-04-17": 43,
       "2022-04-13": 90,
       "2022-04-10": 44,
-      "2022-04-03": 42,
-      "2022-03-27": 49
+      "2022-04-03": 42
     }
   },
   {
@@ -379,9 +376,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.14%",
     "uptimeYear": "97.61%",
-    "time": 1029,
-    "timeDay": 809,
-    "timeWeek": 896,
+    "time": 1030,
+    "timeDay": 915,
+    "timeWeek": 895,
     "timeMonth": 1213,
     "timeYear": 1082,
     "dailyMinutesDown": {
@@ -467,8 +464,7 @@
       "2022-04-17": 42,
       "2022-04-13": 90,
       "2022-04-10": 43,
-      "2022-04-03": 41,
-      "2022-03-27": 49
+      "2022-04-03": 41
     }
   }
 ]

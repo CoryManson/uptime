@@ -163,16 +163,16 @@
     "url": "https://weather.$URL",
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
-    "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "57.64%",
-    "uptimeWeek": "61.41%",
+    "status": "down",
+    "uptime": "97.18%",
+    "uptimeDay": "58.03%",
+    "uptimeWeek": "61.40%",
     "uptimeMonth": "82.31%",
-    "uptimeYear": "95.96%",
-    "time": 1007,
-    "timeDay": 847,
-    "timeWeek": 849,
-    "timeMonth": 896,
+    "uptimeYear": "95.99%",
+    "time": 1006,
+    "timeDay": 831,
+    "timeWeek": 847,
+    "timeMonth": 895,
     "timeYear": 1011,
     "dailyMinutesDown": {
       "2023-03-30": 88,
@@ -257,8 +257,7 @@
       "2022-05-22": 54,
       "2022-05-16": 236,
       "2022-05-15": 1135,
-      "2022-05-08": 52,
-      "2022-05-01": 197
+      "2022-05-08": 52
     }
   },
   {

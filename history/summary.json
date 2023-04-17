@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "98.11%",
+    "uptime": "98.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "97.59%",
     "time": 1092,
-    "timeDay": 1234,
-    "timeWeek": 1201,
-    "timeMonth": 1139,
-    "timeYear": 1119,
+    "timeDay": 1103,
+    "timeWeek": 1190,
+    "timeMonth": 1143,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2023-03-18": 143,
       "2023-03-16": 164,
@@ -98,8 +98,7 @@
       "2022-05-08": 53,
       "2022-05-01": 198,
       "2022-04-30": 77,
-      "2022-04-24": 175,
-      "2022-04-17": 44
+      "2022-04-24": 175
     }
   },
   {
@@ -111,12 +110,12 @@
     "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.30%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "98.96%",
     "time": 216,
-    "timeDay": 256,
-    "timeWeek": 295,
-    "timeMonth": 251,
+    "timeDay": 316,
+    "timeWeek": 296,
+    "timeMonth": 256,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2023-03-18": 142,
@@ -161,15 +160,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.85%",
+    "uptimeMonth": "90.69%",
     "uptimeYear": "95.99%",
-    "time": 1011,
-    "timeDay": 892,
-    "timeWeek": 1132,
-    "timeMonth": 897,
+    "time": 1010,
+    "timeDay": 922,
+    "timeWeek": 1108,
+    "timeMonth": 898,
     "timeYear": 1019,
     "dailyMinutesDown": {
       "2023-03-30": 133,
@@ -263,15 +262,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "97.86%",
+    "uptime": "97.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.31%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "97.51%",
     "time": 646,
-    "timeDay": 618,
-    "timeWeek": 688,
-    "timeMonth": 626,
+    "timeDay": 515,
+    "timeWeek": 667,
+    "timeMonth": 627,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2023-03-18": 141,
@@ -352,8 +351,7 @@
       "2022-05-08": 52,
       "2022-05-01": 197,
       "2022-04-30": 76,
-      "2022-04-24": 173,
-      "2022-04-17": 43
+      "2022-04-24": 173
     }
   },
   {
@@ -362,15 +360,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ombi",
     "status": "up",
-    "uptime": "97.96%",
+    "uptime": "97.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.27%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "97.66%",
     "time": 1047,
-    "timeDay": 932,
-    "timeWeek": 1061,
-    "timeMonth": 1199,
+    "timeDay": 835,
+    "timeWeek": 1040,
+    "timeMonth": 969,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2023-03-18": 141,
@@ -451,8 +449,7 @@
       "2022-05-08": 51,
       "2022-05-01": 196,
       "2022-04-30": 76,
-      "2022-04-24": 171,
-      "2022-04-17": 42
+      "2022-04-24": 171
     }
   }
 ]

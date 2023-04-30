@@ -163,12 +163,12 @@
     "url": "https://weather.$URL",
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
-    "status": "up",
+    "status": "down",
     "uptime": "97.09%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.59%",
     "uptimeWeek": "65.51%",
     "uptimeMonth": "92.06%",
-    "uptimeYear": "95.61%",
+    "uptimeYear": "95.62%",
     "time": 1024,
     "timeDay": 3555,
     "timeWeek": 1651,
@@ -254,8 +254,7 @@
       "2022-06-26": 20,
       "2022-06-19": 19,
       "2022-06-16": 25,
-      "2022-06-15": 5,
-      "2022-06-12": 18
+      "2022-06-15": 5
     }
   },
   {
@@ -263,11 +262,11 @@
     "url": "https://$URL/tautulli",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "97.98%",
-    "uptimeDay": "88.61%",
+    "uptimeDay": "88.60%",
     "uptimeWeek": "92.85%",
-    "uptimeMonth": "98.36%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "97.43%",
     "time": 648,
     "timeDay": 576,
@@ -275,6 +274,7 @@
     "timeMonth": 668,
     "timeYear": 648,
     "dailyMinutesDown": {
+      "2023-04-30": 0,
       "2023-04-29": 164,
       "2023-04-28": 115,
       "2023-04-24": 442,

@@ -6,15 +6,15 @@
     "slug": "homepage",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "88.47%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "92.56%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "97.50%",
     "time": 1100,
-    "timeDay": 1052,
-    "timeWeek": 1199,
-    "timeMonth": 1175,
-    "timeYear": 1131,
+    "timeDay": 1296,
+    "timeWeek": 1196,
+    "timeMonth": 1181,
+    "timeYear": 1132,
     "dailyMinutesDown": {
       "2023-04-29": 166,
       "2023-04-28": 129,
@@ -98,8 +98,7 @@
       "2022-05-22": 54,
       "2022-05-16": 236,
       "2022-05-15": 1136,
-      "2022-05-08": 53,
-      "2022-05-01": 198
+      "2022-05-08": 53
     }
   },
   {
@@ -109,14 +108,14 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "92.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.13%",
     "uptimeMonth": "98.42%",
     "uptimeYear": "98.83%",
     "time": 219,
-    "timeDay": 297,
-    "timeWeek": 276,
-    "timeMonth": 276,
+    "timeDay": 296,
+    "timeWeek": 273,
+    "timeMonth": 279,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2023-04-29": 107,
@@ -165,17 +164,17 @@
     "slug": "weather",
     "status": "up",
     "uptime": "97.09%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "65.44%",
-    "uptimeMonth": "92.05%",
-    "uptimeYear": "95.62%",
+    "uptimeDay": "74.45%",
+    "uptimeWeek": "65.51%",
+    "uptimeMonth": "92.06%",
+    "uptimeYear": "95.61%",
     "time": 1027,
-    "timeDay": 3283,
-    "timeWeek": 1735,
-    "timeMonth": 1294,
-    "timeYear": 1042,
+    "timeDay": 2355,
+    "timeWeek": 1731,
+    "timeMonth": 1304,
+    "timeYear": 1043,
     "dailyMinutesDown": {
-      "2023-04-30": 388,
+      "2023-04-30": 381,
       "2023-04-29": 1440,
       "2023-04-28": 595,
       "2023-04-24": 1061,
@@ -254,7 +253,8 @@
       "2022-06-26": 20,
       "2022-06-19": 19,
       "2022-06-16": 25,
-      "2022-06-15": 5
+      "2022-06-15": 5,
+      "2022-06-12": 18
     }
   },
   {
@@ -264,17 +264,16 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "97.98%",
-    "uptimeDay": "88.10%",
-    "uptimeWeek": "92.78%",
-    "uptimeMonth": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.85%",
+    "uptimeMonth": "98.36%",
     "uptimeYear": "97.43%",
     "time": 648,
-    "timeDay": 557,
-    "timeWeek": 671,
+    "timeDay": 587,
+    "timeWeek": 669,
     "timeMonth": 664,
     "timeYear": 648,
     "dailyMinutesDown": {
-      "2023-04-30": 7,
       "2023-04-29": 164,
       "2023-04-28": 115,
       "2023-04-24": 442,
@@ -353,8 +352,7 @@
       "2022-05-22": 53,
       "2022-05-16": 236,
       "2022-05-15": 1135,
-      "2022-05-08": 52,
-      "2022-05-01": 197
+      "2022-05-08": 52
     }
   },
   {
@@ -364,15 +362,15 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "87.32%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "97.53%",
     "time": 1062,
-    "timeDay": 916,
-    "timeWeek": 1359,
-    "timeMonth": 1139,
-    "timeYear": 1071,
+    "timeDay": 1001,
+    "timeWeek": 1355,
+    "timeMonth": 1144,
+    "timeYear": 1063,
     "dailyMinutesDown": {
       "2023-04-29": 349,
       "2023-04-28": 142,
@@ -452,8 +450,7 @@
       "2022-05-22": 53,
       "2022-05-16": 236,
       "2022-05-15": 1134,
-      "2022-05-08": 51,
-      "2022-05-01": 196
+      "2022-05-08": 51
     }
   }
 ]

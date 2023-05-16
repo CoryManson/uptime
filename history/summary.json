@@ -9,12 +9,12 @@
     "uptimeDay": "98.38%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "98.18%",
-    "uptimeYear": "97.58%",
+    "uptimeYear": "97.76%",
     "time": 1107,
-    "timeDay": 1079,
-    "timeWeek": 1152,
+    "timeDay": 1159,
+    "timeWeek": 1176,
     "timeMonth": 1173,
-    "timeYear": 1140,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-05-15": 23,
       "2023-05-05": 24,
@@ -97,8 +97,7 @@
       "2022-06-12": 28,
       "2022-06-05": 27,
       "2022-05-29": 23,
-      "2022-05-22": 54,
-      "2022-05-16": 236
+      "2022-05-22": 54
     }
   },
   {
@@ -113,10 +112,10 @@
     "uptimeMonth": "98.32%",
     "uptimeYear": "98.82%",
     "time": 223,
-    "timeDay": 240,
-    "timeWeek": 270,
-    "timeMonth": 279,
-    "timeYear": 232,
+    "timeDay": 322,
+    "timeWeek": 277,
+    "timeMonth": 282,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2023-05-15": 22,
       "2023-05-05": 23,
@@ -165,16 +164,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
     "status": "up",
-    "uptime": "96.92%",
+    "uptime": "96.93%",
     "uptimeDay": "98.50%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "87.43%",
     "uptimeYear": "95.24%",
-    "time": 1030,
-    "timeDay": 891,
-    "timeWeek": 923,
-    "timeMonth": 1259,
-    "timeYear": 1046,
+    "time": 1034,
+    "timeDay": 2169,
+    "timeWeek": 1188,
+    "timeMonth": 1319,
+    "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-05-15": 22,
       "2023-05-07": 87,
@@ -269,11 +268,11 @@
     "uptimeDay": "98.54%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "98.26%",
-    "uptimeYear": "97.51%",
-    "time": 641,
-    "timeDay": 663,
-    "timeWeek": 625,
-    "timeMonth": 644,
+    "uptimeYear": "97.69%",
+    "time": 642,
+    "timeDay": 745,
+    "timeWeek": 636,
+    "timeMonth": 646,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2023-05-15": 21,
@@ -353,8 +352,7 @@
       "2022-06-07": 406,
       "2022-06-05": 26,
       "2022-05-29": 22,
-      "2022-05-22": 53,
-      "2022-05-16": 236
+      "2022-05-22": 53
     }
   },
   {
@@ -367,11 +365,11 @@
     "uptimeDay": "98.85%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "97.77%",
-    "uptimeYear": "97.61%",
+    "uptimeYear": "97.79%",
     "time": 1078,
-    "timeDay": 3608,
-    "timeWeek": 1832,
-    "timeMonth": 1304,
+    "timeDay": 4983,
+    "timeWeek": 1847,
+    "timeMonth": 1306,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2023-05-15": 17,
@@ -451,8 +449,7 @@
       "2022-06-12": 28,
       "2022-06-05": 26,
       "2022-05-29": 22,
-      "2022-05-22": 53,
-      "2022-05-16": 236
+      "2022-05-22": 53
     }
   }
 ]

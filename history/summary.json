@@ -11,9 +11,9 @@
     "uptimeMonth": "98.18%",
     "uptimeYear": "97.80%",
     "time": 1109,
-    "timeDay": 910,
-    "timeWeek": 1086,
-    "timeMonth": 1162,
+    "timeDay": 1087,
+    "timeWeek": 1087,
+    "timeMonth": 1161,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2023-05-15": 23,
@@ -96,8 +96,7 @@
       "2022-06-15": 7,
       "2022-06-12": 28,
       "2022-06-05": 27,
-      "2022-05-29": 23,
-      "2022-05-22": 54
+      "2022-05-29": 23
     }
   },
   {
@@ -106,13 +105,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "98.82%",
     "time": 223,
-    "timeDay": 223,
+    "timeDay": 230,
     "timeWeek": 250,
     "timeMonth": 274,
     "timeYear": 233,
@@ -164,15 +163,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
     "status": "up",
-    "uptime": "96.95%",
+    "uptime": "96.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "87.43%",
     "uptimeYear": "95.24%",
     "time": 1023,
-    "timeDay": 703,
-    "timeWeek": 1157,
-    "timeMonth": 1307,
+    "timeDay": 1014,
+    "timeWeek": 1217,
+    "timeMonth": 1309,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2023-05-15": 22,
@@ -270,8 +269,8 @@
     "uptimeMonth": "98.26%",
     "uptimeYear": "97.73%",
     "time": 641,
-    "timeDay": 501,
-    "timeWeek": 634,
+    "timeDay": 708,
+    "timeWeek": 652,
     "timeMonth": 642,
     "timeYear": 649,
     "dailyMinutesDown": {
@@ -351,8 +350,7 @@
       "2022-06-08": 531,
       "2022-06-07": 406,
       "2022-06-05": 26,
-      "2022-05-29": 22,
-      "2022-05-22": 53
+      "2022-05-29": 22
     }
   },
   {
@@ -367,9 +365,9 @@
     "uptimeMonth": "97.77%",
     "uptimeYear": "97.83%",
     "time": 1079,
-    "timeDay": 863,
-    "timeWeek": 1758,
-    "timeMonth": 1294,
+    "timeDay": 1038,
+    "timeWeek": 1857,
+    "timeMonth": 1292,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2023-05-15": 17,
@@ -448,8 +446,7 @@
       "2022-06-15": 4,
       "2022-06-12": 28,
       "2022-06-05": 26,
-      "2022-05-29": 22,
-      "2022-05-22": 53
+      "2022-05-29": 22
     }
   }
 ]

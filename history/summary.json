@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "97.82%",
-    "time": 1112,
-    "timeDay": 1068,
-    "timeWeek": 1198,
-    "timeMonth": 1154,
+    "time": 1113,
+    "timeDay": 1090,
+    "timeWeek": 1197,
+    "timeMonth": 1157,
     "timeYear": 1147,
     "dailyMinutesDown": {
       "2023-05-15": 23,
@@ -94,8 +94,7 @@
       "2022-06-19": 20,
       "2022-06-16": 25,
       "2022-06-15": 7,
-      "2022-06-12": 28,
-      "2022-06-05": 27
+      "2022-06-12": 28
     }
   },
   {
@@ -110,7 +109,7 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.82%",
     "time": 224,
-    "timeDay": 232,
+    "timeDay": 230,
     "timeWeek": 223,
     "timeMonth": 251,
     "timeYear": 235,
@@ -168,9 +167,9 @@
     "uptimeMonth": "95.37%",
     "uptimeYear": "95.24%",
     "time": 1024,
-    "timeDay": 722,
-    "timeWeek": 1034,
-    "timeMonth": 1122,
+    "timeDay": 995,
+    "timeWeek": 1033,
+    "timeMonth": 1125,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2023-05-15": 22,
@@ -262,15 +261,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "97.75%",
     "time": 641,
-    "timeDay": 497,
-    "timeWeek": 629,
-    "timeMonth": 631,
+    "timeDay": 704,
+    "timeWeek": 628,
+    "timeMonth": 637,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2023-05-15": 21,
@@ -347,8 +346,7 @@
       "2022-06-15": 5,
       "2022-06-12": 17,
       "2022-06-08": 531,
-      "2022-06-07": 406,
-      "2022-06-05": 26
+      "2022-06-07": 406
     }
   },
   {
@@ -362,10 +360,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "97.85%",
-    "time": 1080,
-    "timeDay": 806,
-    "timeWeek": 954,
-    "timeMonth": 1192,
+    "time": 1081,
+    "timeDay": 1099,
+    "timeWeek": 962,
+    "timeMonth": 1199,
     "timeYear": 1034,
     "dailyMinutesDown": {
       "2023-05-15": 17,
@@ -442,8 +440,7 @@
       "2022-06-19": 18,
       "2022-06-16": 25,
       "2022-06-15": 4,
-      "2022-06-12": 28,
-      "2022-06-05": 26
+      "2022-06-12": 28
     }
   }
 ]

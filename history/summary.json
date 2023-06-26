@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
-    "time": 1122,
-    "timeDay": 1556,
-    "timeWeek": 1322,
-    "timeMonth": 1212,
-    "timeYear": 1159,
+    "time": 1123,
+    "timeDay": 1485,
+    "timeWeek": 1378,
+    "timeMonth": 1225,
+    "timeYear": 1160,
     "dailyMinutesDown": {
       "2023-05-15": 23,
       "2023-05-05": 24,
@@ -89,8 +89,7 @@
       "2022-07-10": 21,
       "2022-07-09": 269,
       "2022-07-08": 830,
-      "2022-07-03": 29,
-      "2022-06-26": 20
+      "2022-07-03": 29
     }
   },
   {
@@ -104,10 +103,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
-    "time": 226,
-    "timeDay": 330,
-    "timeWeek": 263,
-    "timeMonth": 241,
+    "time": 227,
+    "timeDay": 276,
+    "timeWeek": 270,
+    "timeMonth": 242,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2023-05-15": 22,
@@ -158,10 +157,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.24%",
-    "time": 1024,
-    "timeDay": 1078,
-    "timeWeek": 1019,
-    "timeMonth": 999,
+    "time": 1025,
+    "timeDay": 1077,
+    "timeWeek": 1016,
+    "timeMonth": 1001,
     "timeYear": 1057,
     "dailyMinutesDown": {
       "2023-05-15": 22,
@@ -243,8 +242,7 @@
       "2022-07-22": 594,
       "2022-07-09": 269,
       "2022-07-08": 829,
-      "2022-07-03": 18,
-      "2022-06-26": 20
+      "2022-07-03": 18
     }
   },
   {
@@ -259,9 +257,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.94%",
     "time": 641,
-    "timeDay": 621,
-    "timeWeek": 609,
-    "timeMonth": 617,
+    "timeDay": 718,
+    "timeWeek": 610,
+    "timeMonth": 624,
     "timeYear": 649,
     "dailyMinutesDown": {
       "2023-05-15": 21,
@@ -331,8 +329,7 @@
       "2022-07-22": 593,
       "2022-07-09": 269,
       "2022-07-08": 828,
-      "2022-07-03": 17,
-      "2022-06-26": 19
+      "2022-07-03": 17
     }
   },
   {
@@ -341,15 +338,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ombi",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
     "time": 1088,
-    "timeDay": 1396,
-    "timeWeek": 1403,
-    "timeMonth": 1070,
+    "timeDay": 1167,
+    "timeWeek": 1313,
+    "timeMonth": 1081,
     "timeYear": 1038,
     "dailyMinutesDown": {
       "2023-05-15": 17,
@@ -421,8 +418,7 @@
       "2022-07-10": 21,
       "2022-07-09": 269,
       "2022-07-08": 828,
-      "2022-07-03": 29,
-      "2022-06-26": 19
+      "2022-07-03": 29
     }
   }
 ]

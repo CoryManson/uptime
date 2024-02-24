@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.80%",
-    "uptimeYear": "98.16%",
+    "uptimeYear": "98.41%",
     "time": 1214,
-    "timeDay": 1160,
-    "timeWeek": 1043,
-    "timeMonth": 1055,
+    "timeDay": 1144,
+    "timeWeek": 1080,
+    "timeMonth": 1065,
     "timeYear": 1216,
     "dailyMinutesDown": {
       "2024-02-06": 184,
@@ -44,8 +44,7 @@
       "2023-03-12": 702,
       "2023-03-11": 521,
       "2023-03-05": 103,
-      "2023-02-26": 131,
-      "2023-02-24": 798
+      "2023-02-26": 131
     }
   },
   {
@@ -58,11 +57,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.02%",
+    "uptimeYear": "99.19%",
     "time": 245,
-    "timeDay": 237,
-    "timeWeek": 206,
-    "timeMonth": 205,
+    "timeDay": 224,
+    "timeWeek": 212,
+    "timeMonth": 207,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-12-09": 305,
@@ -87,8 +86,7 @@
       "2023-03-18": 142,
       "2023-03-16": 163,
       "2023-03-15": 53,
-      "2023-03-05": 21,
-      "2023-02-24": 279
+      "2023-03-05": 21
     }
   },
   {
@@ -97,18 +95,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather..ico",
     "slug": "weather",
     "status": "down",
-    "uptime": "79.12%",
+    "uptime": "79.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.92%",
-    "time": 946,
-    "timeDay": 715,
-    "timeWeek": 647,
-    "timeMonth": 684,
+    "uptimeYear": "52.90%",
+    "time": 947,
+    "timeDay": 1025,
+    "timeWeek": 718,
+    "timeMonth": 702,
     "timeYear": 913,
     "dailyMinutesDown": {
-      "2024-02-23": 12,
+      "2024-02-24": 11,
+      "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
@@ -294,8 +293,7 @@
       "2023-03-12": 702,
       "2023-03-11": 521,
       "2023-03-05": 634,
-      "2023-02-26": 120,
-      "2023-02-24": 810
+      "2023-02-26": 120
     }
   },
   {
@@ -308,11 +306,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.80%",
-    "uptimeYear": "98.18%",
+    "uptimeYear": "98.44%",
     "time": 658,
-    "timeDay": 733,
-    "timeWeek": 638,
-    "timeMonth": 640,
+    "timeDay": 721,
+    "timeWeek": 664,
+    "timeMonth": 648,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2024-02-06": 184,
@@ -343,8 +341,7 @@
       "2023-03-12": 702,
       "2023-03-11": 521,
       "2023-03-05": 63,
-      "2023-02-26": 119,
-      "2023-02-24": 798
+      "2023-02-26": 119
     }
   },
   {
@@ -353,18 +350,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "80.63%",
+    "uptime": "80.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.79%",
-    "time": 852,
-    "timeDay": 226,
-    "timeWeek": 201,
-    "timeMonth": 202,
-    "timeYear": 804,
+    "uptimeYear": "56.77%",
+    "time": 851,
+    "timeDay": 228,
+    "timeWeek": 209,
+    "timeMonth": 204,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2024-02-23": 12,
+      "2024-02-24": 11,
+      "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
@@ -535,8 +533,7 @@
       "2023-03-12": 702,
       "2023-03-11": 521,
       "2023-03-05": 93,
-      "2023-02-26": 131,
-      "2023-02-24": 798
+      "2023-02-26": 131
     }
   }
 ]

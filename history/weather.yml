@@ -1,7 +1,7 @@
 url: https://weather.$URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-23T14:18:44.521Z
+status: up
+code: 200
+responseTime: 1405
+lastUpdated: 2024-06-23T14:26:52.372Z
 startTime: 2021-10-28T00:55:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>

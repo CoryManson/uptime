@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
     "time": 1221,
-    "timeDay": 1094,
-    "timeWeek": 1079,
-    "timeMonth": 1237,
+    "timeDay": 1062,
+    "timeWeek": 1044,
+    "timeMonth": 1233,
     "timeYear": 1171,
     "dailyMinutesDown": {
       "2024-09-16": 65,
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 225,
-    "timeDay": 214,
-    "timeWeek": 182,
+    "timeDay": 201,
+    "timeWeek": 178,
     "timeMonth": 196,
     "timeYear": 212,
     "dailyMinutesDown": {
@@ -83,16 +83,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/weather.$url.ico",
     "slug": "weather",
     "status": "up",
-    "uptime": "78.14%",
+    "uptime": "78.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.50%",
+    "uptimeYear": "50.78%",
     "time": 998,
-    "timeDay": 1139,
-    "timeWeek": 1160,
-    "timeMonth": 1296,
-    "timeYear": 1018,
+    "timeDay": 1209,
+    "timeWeek": 1135,
+    "timeMonth": 1286,
+    "timeYear": 1020,
     "dailyMinutesDown": {
       "2024-09-16": 64,
       "2024-08-05": 81,
@@ -275,8 +275,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   },
   {
@@ -291,9 +290,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 650,
-    "timeDay": 681,
-    "timeWeek": 578,
-    "timeMonth": 621,
+    "timeDay": 640,
+    "timeWeek": 567,
+    "timeMonth": 620,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2024-09-16": 63,
@@ -323,18 +322,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/$url.ico",
     "slug": "ombi",
     "status": "down",
-    "uptime": "62.39%",
+    "uptime": "62.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 391,
-    "timeDay": 208,
-    "timeWeek": 191,
+    "time": 390,
+    "timeDay": 203,
+    "timeWeek": 187,
     "timeMonth": 198,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-10-28": 17,
+      "2024-10-29": 16,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -697,8 +697,7 @@
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
-      "2023-10-31": 1440,
-      "2023-10-30": 1440
+      "2023-10-31": 1440
     }
   }
 ]

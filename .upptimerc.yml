@@ -9,12 +9,6 @@ sites:
     check: "tcp-ping"
     url: $URL
     port: 32400
-  - name: Weather
-    url: https://weather.$URL
-  - name: Tautulli
-    url: https://$URL/tautulli
-  - name: Ombi
-    url: https://$URL/ombi
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

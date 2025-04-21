@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 1169,
-    "timeDay": 1029,
-    "timeWeek": 1115,
-    "timeMonth": 1153,
-    "timeYear": 1195,
+    "time": 1170,
+    "timeDay": 1301,
+    "timeWeek": 1142,
+    "timeMonth": 1154,
+    "timeYear": 1196,
     "dailyMinutesDown": {
       "2025-03-10": 45,
       "2025-02-05": 78,
@@ -31,8 +31,7 @@
       "2024-06-19": 80,
       "2024-05-30": 51,
       "2024-04-25": 31,
-      "2024-04-24": 132,
-      "2024-04-21": 46
+      "2024-04-24": 132
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 204,
-    "timeDay": 155,
+    "timeDay": 206,
     "timeWeek": 179,
-    "timeMonth": 187,
+    "timeMonth": 188,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2025-03-10": 44,
@@ -65,8 +64,7 @@
       "2024-06-19": 79,
       "2024-05-30": 50,
       "2024-04-25": 29,
-      "2024-04-24": 131,
-      "2024-04-21": 35
+      "2024-04-24": 131
     }
   }
 ]
